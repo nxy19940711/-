@@ -46,6 +46,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -100,7 +101,7 @@
       <updated>1582784775705</updated>
       <workItem from="1582784779066" duration="3104000" />
       <workItem from="1582868771936" duration="1174000" />
-      <workItem from="1582880654525" duration="1234000" />
+      <workItem from="1582880654525" duration="1960000" />
     </task>
     <servers />
   </component>
